@@ -1,4 +1,4 @@
-
+--Insert the data to table:
 create database mec;
 create table mec.proff(
 si int primary key,
